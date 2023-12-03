@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" height="80%" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" height="50%" width="100%" />
 <h1 align="center">Hi 👋, I'm Rimon</h1>
 <h3 align="center">Blockchain || Python || Django || Odoo || Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonjunior&label=Profile%20views&color=0e75b6&style=flat" alt="rimonjunior" /> </p>
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/md_rimonislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="md_rimonislam" height="30" width="40" /></a><a href="https://linkedin.com/in/rimonislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rimonislam" height="30" width="40" /></a><a href="https://fb.com/rimonislam.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="rimonislam.info" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Solidity || Python || JavaScript || Rust || React.js || PostgreSQL || Django || Odoo || Rest API || Brownie || Linux || Adobe Illustrator || SEO
+<h4 align="left">Solidity || Python || JavaScript || Rust || React.js || PostgreSQL || Django || Odoo || Rest API || Brownie || Linux || SEO
 </h4>
 
 <h3 align="left">Support:</h3>
