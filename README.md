@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/md_rimonislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="md_rimonislam" height="30" width="40" /></a><a href="https://linkedin.com/in/rimonislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rimonislam" height="30" width="40" /></a><a href="https://fb.com/rimonislam.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="rimonislam.info" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Hard Skills:</h3>
 <h4 align="left">Solidity || Python || JavaScript || Rust || React.js || PostgreSQL || Django || Odoo || Rest API || Brownie || Linux || SEO
 </h4>
 
