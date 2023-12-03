@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/cypress.svg" alt="Cypress" width="40" height="40"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F155913585%2F1e5baf00-2b82-11eb-9f4c-1f47e216cf05&tbnid=Q4CEDARC5MgmBM&vet=12ahUKEwjD64-L9PKCAxVPUWwGHSZpC1UQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fgithub.com%2Feth-brownie%2Fbrownie&docid=_2DX7lMJyMWyQM&w=1103&h=587&q=eth%20brownie%20icon&ved=2ahUKEwjD64-L9PKCAxVPUWwGHSZpC1UQMygAegQIARBM" alt="Brownie" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
